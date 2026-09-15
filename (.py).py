@@ -1,9 +1,8 @@
-uku = {
+buku = {
     "judul": "LASKAR PELANGI",
     "penulis": "Andrea Hirata",
     "tahun_terbit": 2005
 }
-
 while True:
     print("DATA BUKU")
     print("1. Tampilkan")
